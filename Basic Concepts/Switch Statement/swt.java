@@ -1,7 +1,7 @@
 public class swt{
     public static void main(String[] args) {
         String day = "Monday";
-        switch (day) 
+        switch (day)  
         {
             //switch can be expression 
              case "staurday" , "sunday":
