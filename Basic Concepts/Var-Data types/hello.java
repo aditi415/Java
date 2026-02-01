@@ -6,7 +6,6 @@ class hello
        byte by = 127;
        short sh=553;
        long l =33445l;
-
        char c='w';
        boolean bn =true;
 
