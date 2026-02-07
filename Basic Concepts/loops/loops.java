@@ -18,8 +18,7 @@ public class loops {
 
         //do while
 
-        int i =5;
-
+       // int i =5;
         do{
             System.out.println("Hi" + i);
             i++;
@@ -35,6 +34,14 @@ public class loops {
             {
                 System.out.println(" " +(l+8)+ "-" +(l+9));
             }
+         }
+
+         //enhanced for loop i.e for each loop
+
+         int nums[]={1,2,3,44,23};
+         for(int n:nums)
+         {
+            System.out.println(n);
          }
     }
     
