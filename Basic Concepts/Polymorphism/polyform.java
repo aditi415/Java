@@ -6,6 +6,7 @@
     2 Run Time -  if the behaviour is define at Run time it is run time polymorphsim. which method will be execute is at run time. Overriding is part of runtime
 
 */
+
 class A{
     public void show(){
         System.out.println("in A show");
