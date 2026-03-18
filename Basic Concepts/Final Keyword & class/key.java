@@ -1,4 +1,3 @@
-
 final class calc{             //if we make class final we stop the inheritance means no other class can inherit the property from final class 
     public final void show(){               //here method is overriding to stop this final keyword is used
         System.out.println("in calc show");
