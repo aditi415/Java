@@ -1,4 +1,3 @@
-
 public class AdvCalc extends Calc     //AdvCalc is subclass Calc is superclass extends is inheriting property of another class
 {
     public int multi(int n5,int n6)
