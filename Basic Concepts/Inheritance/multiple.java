@@ -1,16 +1,10 @@
 //java does not support multiple inheritance
 
-class A{
+class A{}
 
-}
+class B{}
 
-class B{
-
-}
-
-class C{
-
-}
+class C{}
 
 public class multiple            //multiple inheritance
 {
