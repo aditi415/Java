@@ -1,4 +1,4 @@
- /*subclass (child) - the class that inherits from another class
+/*subclass (child) - the class that inherits from another class
 superclass (parent) - the class being inherited from*/
 
 package inheritance;
