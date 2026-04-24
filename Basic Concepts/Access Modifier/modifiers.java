@@ -12,6 +12,7 @@ different package subclass          no          yes          yes      no
 different package non-subclass      no          no           yes      no 
 */
 
+
 class C extends A{
     public void abc(){
         System.out.println(marks);
